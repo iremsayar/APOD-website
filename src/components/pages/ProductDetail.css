@@ -1,0 +1,15 @@
+@media only screen and (max-width: 800px) {
+  .font-exp{
+    font-size: 10px;
+    text-align:justify;
+  }
+  .font-p{
+    font-size: 12px;
+  }
+ }
+@media only screen and (min-width: 801px) {
+ .font-exp{
+   font-size: 22px;
+   text-align:justify;
+ }
+ }

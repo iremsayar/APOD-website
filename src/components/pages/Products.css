@@ -1,0 +1,18 @@
+@media only screen and (max-width: 800px) {
+   .card-style{
+       transform: scale(0.9);
+   }
+   .text-font{
+    margin-top: 0.75rem;
+}
+    
+  }
+@media only screen and (min-width: 801px) {
+    .card-style{
+        transform: scale(0.8);
+        
+    }
+    .text-font{
+        font-size: 30px;
+    }
+  }
