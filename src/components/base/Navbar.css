@@ -1,27 +1,25 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url("https://fonts.googleapis.com/css?family=Raleway");
 
-.navbar{
-    font-family: Raleway;
+.navbar {
+  font-family: Raleway;
 }
 @media only screen and (max-width: 800px) {
-    .img-widht{
-        max-width: 40px;
-    }
-    .search-product{
-        transform: scale(0.8);
-
-    }
-    
+  .img-widht {
+    max-width: 30px;
   }
+  .search-product {
+    transform: scale(0.7);
+  }
+}
 @media only screen and (min-width: 801px) {
-    .img-widht{
-        width: 90px;
-    }
-    .nasa-text{
-        padding: 10rem 3rem;
-        font-size: 35px;
-    }
-    .links{
-        display: none;
-    }
+  .img-widht {
+    width: 90px;
   }
+  .nasa-text {
+    padding: 10rem 3rem;
+    font-size: 35px;
+  }
+  .links {
+    display: none;
+  }
+}
